@@ -4,7 +4,7 @@
 #print(f"Hello, {name}! You are {age} years old.") 
 
 
-a=6
+a=13
 b=7
 c=a+b
 print(c)
